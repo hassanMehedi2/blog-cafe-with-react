@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/QvDHkLV/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/LJCXh1N/abraham-george-ww-Vt-Ht5-Px18-unsplash.jpg",
+      "posted_date": "2023-11-26",
+      "reading_time": 15,
+      "hashtag": ["fiction", "LoremIpsum"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/MgNLY55/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "The Hidden Gem",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/LJCXh1N/abraham-george-ww-Vt-Ht5-Px18-unsplash.jpg",
+      "posted_date": "2023-11-25",
+      "reading_time": 20,
+      "hashtag": ["mystery", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/MgNLY55/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "Coding Chronicles",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/LJCXh1N/abraham-george-ww-Vt-Ht5-Px18-unsplash.jpg",
+      "posted_date": "2023-11-24",
+      "reading_time": 30,
+      "hashtag": ["programming", "technology"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/MgNLY55/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "Epic Fantasy",
+      "author": "Samuel Turner",
+      "author_img": "https://i.ibb.co/LJCXh1N/abraham-george-ww-Vt-Ht5-Px18-unsplash.jpg",
+      "posted_date": "2023-11-23",
+      "reading_time": 25,
+      "hashtag": ["fantasy", "adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/MgNLY55/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "Science Unleashed",
+      "author": "Dr. Emily Parker",
+      "author_img": "https://i.ibb.co/LJCXh1N/abraham-george-ww-Vt-Ht5-Px18-unsplash.jpg",
+      "posted_date": "2023-11-22",
+      "reading_time": 18,
+      "hashtag": ["science", "discovery"]
+    }
+  ]
+  
